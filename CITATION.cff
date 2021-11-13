@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: 'COSME2 {FAIR} GitHub Repositories'
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+version: 1.0.0
+date-released: 2021-11-15
+url: "https://github.com/cosme-2"
+authors:
+  - given-names: Consortium COSME2
+    email: consortium.cosme2@gmail.com
